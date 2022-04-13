@@ -9,3 +9,4 @@ V1.0.0 added youtube video downloader. Paste the url in the section tab and then
 V1.0.1 confirmation shown for video to audio convertion.
 Paste the url in the download section tab and then click on download.  Choose your desired resolution and download will start automatically.  Please wait the app may show (not responding), I don't know but I checked that its a general problem of the library. but please wait your file will be downloaded. 1080p no audio is fixed you can directly download videos from youtube 1080p quality with audio. But please wait if it shows not responding finally it will work. Hope we can correct in future versions.
 V1.0.2 Video download not responding almost fixed. Sometime may occur then immediately restart the application. 1080p may require time while final processing.
+V2.0.0 Fixed almost all bugs least chance to hang. 
