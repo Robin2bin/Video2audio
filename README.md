@@ -11,3 +11,4 @@ Paste the url in the download section tab and then click on download.  Choose yo
 V1.0.2 Video download not responding almost fixed. Sometime may occur then immediately restart the application. 1080p may require time while final processing.
 V2.0.0 Fixed almost all bugs least chance to hang. 
 V2.0.1 Fixed Screen Resolution of screen recorder. You have to choose your screen resolution.
+V2.1.0 Record screen with audio. Screen recording working with most devices. Fixed Bug from youtuber downloading server.
