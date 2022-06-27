@@ -12,3 +12,4 @@ V1.0.2 Video download not responding almost fixed. Sometime may occur then immed
 V2.0.0 Fixed almost all bugs least chance to hang. 
 V2.0.1 Fixed Screen Resolution of screen recorder. You have to choose your screen resolution.
 V2.1.0 Record screen with audio. Screen recording working with most devices. Fixed Bug from youtuber downloading server.
+V2.1.0 Record screen with audio bug fixed. Mix Mp4 is now AI based. It will be able to mix video and audio file inspite of having length mismatch.
